@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "day01.tests.fsproj",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "/Users/tom.carabine/code/AdventOfCode2022/tests/day01.tests/bin/Debug/net7.0/day01.tests.dll",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopAtEntry": false,
+      "preLaunchTask": "Build: day01.tests.fsproj",
+      "justMyCode": false,
+      "requireExactSource": false,
+      "presentation": {
+        "group": "ionide",
+        "hidden": false
+      }
+    }
+  ]
+}

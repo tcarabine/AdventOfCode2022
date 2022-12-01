@@ -15,7 +15,7 @@ let ``Functions.bundle should produce 2 items when given a string with a single 
   let result = Functions.bundle input
 
   //Assert
-  result.Should().HaveCount(2, "There is only one \\n\\n provided")
+  result.Should().HaveCount(2, "there is only one \\n\\n provided")
 
 [<Fact>]
 let `` Functions.most should return 24000 for the sample input`` () =
@@ -23,7 +23,7 @@ let `` Functions.most should return 24000 for the sample input`` () =
   let input = "1000\n2000\n3000\n\n4000\n\n5000\n6000\n\n7000\n8000\n9000\n\n10000"
 
   //Act
-  let result : int= Functions.most input
+  let result = Functions.most input
 
   //Assert
   result.Should().Be(24000, "this is the sample value")
@@ -33,7 +33,7 @@ let ``Functions.top3 should return 45000 for the sample input``   () =
   let input = "1000\n2000\n3000\n\n4000\n\n5000\n6000\n\n7000\n8000\n9000\n\n10000"
 
   //Act
-  let result : int= Functions.top3 input
+  let result = Functions.top3 input
 
   //Assert
   result.Should().Be(45000, "this is the sample value")

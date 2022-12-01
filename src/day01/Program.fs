@@ -1,7 +1,6 @@
 ﻿namespace Day1
 
 open System.IO
-open System.Linq
 
 module Functions = 
   
@@ -16,7 +15,8 @@ module Functions =
       |> List.sum
 
   let most (input: string): int = 
-    input|> bundle
+    input
+      |> bundle
       |> List.map (fun grp -> sum grp )
       |> List.max
 
@@ -29,18 +29,12 @@ module Functions =
       |> List.toArray
     arr[0..2]
     |> Array.sum
+
 module Program = 
   [<EntryPoint>] 
   let main args = 
-    let maxCals = 
-      Functions.injest "input.txt"
-      |> Functions.most
+    let input = Functions.injest "input.txt"
 
-    printfn $"{maxCals}"
-
-    let top3 = 
-      Functions.injest "input.txt"
-      |> Functions.top3
-    
-    printfn $"{top3}"
+    printfn $"{input |> Functions.most}\tIs the most a single elf has"
+    printfn $"{input |> Functions.top3}\tIs the total carried by the 3 elfs with the most"
     0

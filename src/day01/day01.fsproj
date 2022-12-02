@@ -5,6 +5,8 @@
     <RootNamespace>day_01</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="../day02/Program.fs" />
+    <Compile Include="../day02/Program.fs" />
     <Compile Include="Program.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>

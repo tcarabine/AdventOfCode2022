@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="41883a2b-7ce7-4089-a962-e6c3bc00dfba" name="@AMAC02G20CJMD6R 2022-12-02 11:40:16" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-12-02T11:40:16.4875370+00:00" queuing="2022-12-02T11:40:16.4875370+00:00" start="2022-12-02T11:40:14.6557010+00:00" finish="2022-12-02T11:40:16.4981460+00:00" />
+  <TestSettings name="default" id="a26511fd-e608-4ecb-9f69-03cbe3e37a8d">
+    <Deployment runDeploymentRoot="_AMAC02G20CJMD6R_2022-12-02_11_40_16" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="023bdf09-6629-43a1-bd26-851e3adbbc07" testId="a560f260-92b9-b4e1-7f02-1aca40c0df42" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'S', you: 'P', result: 6)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0001704" startTime="2022-12-02T11:40:16.3445380+00:00" endTime="2022-12-02T11:40:16.3445380+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="023bdf09-6629-43a1-bd26-851e3adbbc07" />
+    <UnitTestResult executionId="6394ebc4-99ab-4f2d-96fe-6fad2f3a4f8c" testId="4880073b-7aab-59a8-3250-28fd44a525fd" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'P', you: 'P', result: 3)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000009" startTime="2022-12-02T11:40:16.3453760+00:00" endTime="2022-12-02T11:40:16.3453760+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6394ebc4-99ab-4f2d-96fe-6fad2f3a4f8c" />
+    <UnitTestResult executionId="0a71a964-7f07-486d-8697-b1870d70888d" testId="e71bbaaf-97a7-ebbe-ad36-66b8491c117d" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'P', you: 'S', result: 0)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000015" startTime="2022-12-02T11:40:16.3454790+00:00" endTime="2022-12-02T11:40:16.3454790+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a71a964-7f07-486d-8697-b1870d70888d" />
+    <UnitTestResult executionId="55ede5f1-9c5c-4d88-a56b-a2492c959e52" testId="8fcad9f0-b537-1d26-9215-2cd41ba33df9" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'S', you: 'R', result: 0)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000015" startTime="2022-12-02T11:40:16.3453990+00:00" endTime="2022-12-02T11:40:16.3453990+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55ede5f1-9c5c-4d88-a56b-a2492c959e52" />
+    <UnitTestResult executionId="866a0c8d-5187-49e3-8e4c-dff710ac11e1" testId="b7f99391-2126-3c1d-2849-77cd84ca8527" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'R', you: 'P', result: 0)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000017" startTime="2022-12-02T11:40:16.3453100+00:00" endTime="2022-12-02T11:40:16.3453100+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="866a0c8d-5187-49e3-8e4c-dff710ac11e1" />
+    <UnitTestResult executionId="d5b9cdef-6ee1-483a-bed0-38d39a9ab77d" testId="54016fbd-c11c-8e6a-2320-44e4778ad76c" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'R', you: 'R', result: 3)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000010" startTime="2022-12-02T11:40:16.3454210+00:00" endTime="2022-12-02T11:40:16.3454210+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d5b9cdef-6ee1-483a-bed0-38d39a9ab77d" />
+    <UnitTestResult executionId="56f34948-c6b7-4a11-bd24-933ad8a533d5" testId="4c41c75a-20d5-64d1-8b9d-6e681b255ca8" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'P', you: 'R', result: 6)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0030511" startTime="2022-12-02T11:40:16.3390950+00:00" endTime="2022-12-02T11:40:16.3391290+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56f34948-c6b7-4a11-bd24-933ad8a533d5" />
+    <UnitTestResult executionId="1299fae3-3373-4502-ab74-319996c5a166" testId="4eceeeee-a355-70ca-adf0-229acb162e05" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'R', you: 'S', result: 6)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000015" startTime="2022-12-02T11:40:16.3453440+00:00" endTime="2022-12-02T11:40:16.3453440+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1299fae3-3373-4502-ab74-319996c5a166" />
+    <UnitTestResult executionId="c2b39e6f-e6aa-4a93-88f1-f771f7857057" testId="060056f4-dc6e-7e8f-d351-cf92eefb3598" testName="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'S', you: 'S', result: 3)" computerName="AMAC02G20CJMD6R" duration="00:00:00.0000015" startTime="2022-12-02T11:40:16.3454560+00:00" endTime="2022-12-02T11:40:16.3454560+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c2b39e6f-e6aa-4a93-88f1-f771f7857057" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'R', you: 'P', result: 0)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="b7f99391-2126-3c1d-2849-77cd84ca8527">
+      <Execution id="866a0c8d-5187-49e3-8e4c-dff710ac11e1" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'S', you: 'S', result: 3)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="060056f4-dc6e-7e8f-d351-cf92eefb3598">
+      <Execution id="c2b39e6f-e6aa-4a93-88f1-f771f7857057" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'R', you: 'R', result: 3)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="54016fbd-c11c-8e6a-2320-44e4778ad76c">
+      <Execution id="d5b9cdef-6ee1-483a-bed0-38d39a9ab77d" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'S', you: 'P', result: 6)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="a560f260-92b9-b4e1-7f02-1aca40c0df42">
+      <Execution id="023bdf09-6629-43a1-bd26-851e3adbbc07" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'S', you: 'R', result: 0)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="8fcad9f0-b537-1d26-9215-2cd41ba33df9">
+      <Execution id="55ede5f1-9c5c-4d88-a56b-a2492c959e52" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'P', you: 'P', result: 3)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="4880073b-7aab-59a8-3250-28fd44a525fd">
+      <Execution id="6394ebc4-99ab-4f2d-96fe-6fad2f3a4f8c" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'P', you: 'S', result: 0)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="e71bbaaf-97a7-ebbe-ad36-66b8491c117d">
+      <Execution id="0a71a964-7f07-486d-8697-b1870d70888d" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'P', you: 'R', result: 6)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="4c41c75a-20d5-64d1-8b9d-6e681b255ca8">
+      <Execution id="56f34948-c6b7-4a11-bd24-933ad8a533d5" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+    <UnitTest name="Tests.Rules work for scoring&lt;Char, Char, Int32&gt;(them: 'R', you: 'S', result: 6)" storage="/users/tom.carabine/code/adventofcode2022/tests/day02.tests/bin/debug/net7.0/day02.tests.dll" id="4eceeeee-a355-70ca-adf0-229acb162e05">
+      <Execution id="1299fae3-3373-4502-ab74-319996c5a166" />
+      <TestMethod codeBase="/Users/tom.carabine/code/AdventOfCode2022/tests/day02.tests/bin/Debug/net7.0/day02.tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Tests" name="Rules work for scoring" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="a560f260-92b9-b4e1-7f02-1aca40c0df42" executionId="023bdf09-6629-43a1-bd26-851e3adbbc07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4880073b-7aab-59a8-3250-28fd44a525fd" executionId="6394ebc4-99ab-4f2d-96fe-6fad2f3a4f8c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e71bbaaf-97a7-ebbe-ad36-66b8491c117d" executionId="0a71a964-7f07-486d-8697-b1870d70888d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8fcad9f0-b537-1d26-9215-2cd41ba33df9" executionId="55ede5f1-9c5c-4d88-a56b-a2492c959e52" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b7f99391-2126-3c1d-2849-77cd84ca8527" executionId="866a0c8d-5187-49e3-8e4c-dff710ac11e1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54016fbd-c11c-8e6a-2320-44e4778ad76c" executionId="d5b9cdef-6ee1-483a-bed0-38d39a9ab77d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c41c75a-20d5-64d1-8b9d-6e681b255ca8" executionId="56f34948-c6b7-4a11-bd24-933ad8a533d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4eceeeee-a355-70ca-adf0-229acb162e05" executionId="1299fae3-3373-4502-ab74-319996c5a166" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="060056f4-dc6e-7e8f-d351-cf92eefb3598" executionId="c2b39e6f-e6aa-4a93-88f1-f771f7857057" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.5+1caef2f33e (64-bit .NET 7.0.0)
+[xUnit.net 00:00:00.90]   Discovering: day02.tests
+[xUnit.net 00:00:00.95]   Discovered:  day02.tests
+[xUnit.net 00:00:00.96]   Starting:    day02.tests
+[xUnit.net 00:00:01.02]   Finished:    day02.tests
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
